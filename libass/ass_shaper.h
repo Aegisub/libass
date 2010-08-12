@@ -21,7 +21,7 @@
 
 #include "config.h"
 
-#include <fribidi.h>
+#include <fribidi/fribidi.h>
 #include "ass_render.h"
 
 void ass_shaper_info(ASS_Library *lib);
